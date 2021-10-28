@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gerardass
 - 👀 I’m interested in Machine Learning , Web Development and network engineering
 - 🌱 I’m currently learning ML and core network engineering
-- 💞️ I’m looking to collaborate on various projects about Machine Learning
+- 💞️ I’m looking to collaborate on various projects about Machine Learning and Data Science
 - 📫 How to reach me : gerardassouala89@gmail.com
 
 <!---
